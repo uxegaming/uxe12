@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.sing{
+    color: white;
+    text-align: right;
+    background-color: blue;
+    margin-left: 95%;
+    border-radius: 20px;
+    font-size: 30px;
+}
+a{
+    color: white;
+    text-align: center;
+    margin-right: 25%;
+}
+h2{
+    color: white;
+}
